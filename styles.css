@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:pink;
+	color:gray;
+}
+div{
+	float:right;
+}
